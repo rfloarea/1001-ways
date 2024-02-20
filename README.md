@@ -1,2 +1,6 @@
-# 1001-ways
-learning 1001 ways to write not good code. come for the pain, stay for the laughs!
+# WRITE BAD CODE: 1001 WAYS
+
+## Plog
+Monday, February 19th 2024 @7:53pm
+
+The mission begins.
